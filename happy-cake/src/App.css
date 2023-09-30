@@ -1,0 +1,9 @@
+.flex-card{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 4rem;
+}
+
+.card-img-top{
+    height: 16rem;
+}
